@@ -1002,7 +1002,7 @@ local TestText = "  ❲ RunThon TeAm 𝖲𝗈𝗎𝗋𝖼𝖾 ❳\n— — — �
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '(Source Dev)', url = "https://t.me/BxxBxxL"}
+{text = '(Alsh)', url = "https://t.me/BxxBxxL"}
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -1012,10 +1012,10 @@ local TestText = "٠ معلومات مبرمج السورس : \\nn: name Dev . [
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '(Source Dev)', url = "https://t.me/BxxBxxL"}
+{text = '(Alsh)', url = "https://t.me/BxxBxxL"}
 },
 {
-{text = '(Source Ch)', url = "https://t.me/BxxBxxL"},
+{text = '(Source Runthon)', url = "https://t.me/xLxLxLrr3"},
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -1035,7 +1035,7 @@ local T =[[
 
 ᥀︙ 3 - ارسل اسم للبوت كمثال : ‹ RunThon ›
 ᥀︙ 4 - ارسل معرف للبوت بشرط بالنهايه ‹ bot ›
-᥀︙ كمثال لمعرف البوت : ‹ @d1z6bot ›
+᥀︙ كمثال لمعرف البوت : ‹ @RR5RR_bot ›
 ᥀︙ بعدها يظهر لك رساله تحتوي على التوكن
 ᥀︙ كمثال للتوكن : ‹ 5202924365:AAEQ ›
 
@@ -1048,7 +1048,7 @@ keyboard.inline_keyboard = {
 {text = '( BotFather )', url = "https://t.me/BotFather"}
 },
 {
-{text = '(Ch Source )', url = "https://t.me/BxxBxxL"}
+{text = '(Alsh)', url = "https://t.me/BxxBxxL"}
 }, 
 }
 local msgg = msg.id/2097152/0.5
@@ -1065,7 +1065,7 @@ local T =[[
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = '( Dev )', url = "https://t.me/BxxBxxL"}
+{text = '( Alsh )', url = "https://t.me/BxxBxxL"}
 },
 }
 local msgg = msg.id/2097152/0.5
@@ -1082,13 +1082,13 @@ local T =[[
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = '( Source channel )', url = "https://t.me/BxxBxxL"}
+{text = '( Source Runthon )', url = "https://t.me/xLxLxLrr3"}
 },
 {
-{text = '( Source Dev )', url = "https://t.me/BxxBxxL"},{text = '( Exp Source )', url = "https://t.me/xLxLxLrr12"},
+{text = '( Alsh )', url = "https://t.me/BxxBxxL"},{text = '( Exp Source )', url = "https://t.me/xLxLxLrr12"},
 },
 {
-{text = '( Tws Source )', url = "https://t.me/SAN_M_bot"}
+{text = '( bot Tosl )', url = "https://t.me/SAN_M_bot"}
 }, 
 }
 local msgg = msg.id/2097152/0.5
